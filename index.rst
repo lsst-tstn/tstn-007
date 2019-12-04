@@ -53,8 +53,12 @@
 Introduction
 ============
 
-This tech note describes the infrastructure and process for building and releasins T&S software.  It should be considered the continuation of the `TSSW Developer Guide`_.
--- _TSSW Developer Guide:  https://tssw-developer.lsst.io/
+This tech note describes the infrastructure and process for building and releasins T&S software.  It should be considered the continuation of the `TSSW Developer Guide
+<https://tssw-developer.lsst.io/>`_.
+
+.. Add content here.
+.. Do not include the document title (it's automatically added from metadata.yaml).
+
 .. .. rubric:: References
 
 .. Make in-text citations with: :cite:`bibkey`.
