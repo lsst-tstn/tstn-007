@@ -37,7 +37,7 @@ authors:
 copyright: "2019, Association of Universities for Research in Astronomy, Inc. (AURA)"
 
 # Description. A short, 1-2 sentence statemement used by document indices.
-description: "This document contains the Build and Release process for Telescope & Site Software."
+description: "This document was moved to the Observatory Operations are.."
 
 # Abstract, if available
 # abstract: >
@@ -47,11 +47,11 @@ description: "This document contains the Build and Release process for Telescope
 #           You can have multiple paragraphs too.
 
 # URL where this document is published by Read the Docs. e.g. http://sqr-001.lsst.codes
-url: "https://tstn-007.lsst.io"
+url: "https://obs-ops.lsst.io/Operational-Procedures/TSSW_Build/TSSW-Build-System.html"
 
 # LSST Docushare URL, if authoritative versions of this are are stored there.
 # Leave as an empty string or comment out this key if there is no Docushare URL.
 docushare_url: ""
 
 # GitHub repo URL
-github_url: "https://github.com/lsst-tstn/tstn-007"
+github_url: "https://github.com/lsst-ts/observatory-ops-docs/tree/main/Operational-Procedures/TSSW_Build"

@@ -42,26 +42,8 @@
 
 .. sectnum::
 
-.. TODO: Delete the note below before merging new content to the master branch.
-
 .. note::
 
-   **This technote is not yet published.**
+   **This technote was moved to Observatory Operations.**
+     `TSSW Build System <https://obs-ops.lsst.io/Operational-Procedures/TSSW_Build/TSSW-Build-System.html>`_.
 
-   This document contains the Build and Release process for Telescope & Site Software.
-
-Introduction
-============
-
-This tech note describes the infrastructure and process for building and releasins T&S software.  It should be considered the continuation of the `TSSW Developer Guide
-<https://tssw-developer.lsst.io/>`_.
-
-.. Add content here.
-.. Do not include the document title (it's automatically added from metadata.yaml).
-
-.. .. rubric:: References
-
-.. Make in-text citations with: :cite:`bibkey`.
-
-.. .. bibliography:: local.bib lsstbib/books.bib lsstbib/lsst.bib lsstbib/lsst-dm.bib lsstbib/refs.bib lsstbib/refs_ads.bib
-..    :style: lsst_aa
