@@ -44,6 +44,6 @@
 
 .. note::
 
-   **This technote was moved to Observatory Operations.
-     `TSSW Build System <https://obs-ops.lsst.io/Operational-Procedures/TSSW_Build/TSSW-Build-System.html/>`_.**
+   **This technote was moved to Observatory Operations.**
+     `TSSW Build System <https://obs-ops.lsst.io/Operational-Procedures/TSSW_Build/TSSW-Build-System.html>`_.
 
